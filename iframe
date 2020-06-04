@@ -1,1 +1,3 @@
+<script>
 javascript:alert(document.domain);
+</script>
